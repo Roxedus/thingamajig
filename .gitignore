@@ -1,0 +1,8 @@
+.env
+.task/
+cluster/.terraform.lock.hcl
+cluster/.terraform/
+cluster/terraform.tfstate
+cluster/terraform.tfstate.backup
+kubeconfig
+talosconfig
